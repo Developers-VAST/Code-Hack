@@ -19,3 +19,5 @@ For example 5 = 2 + 3, 17 = 2 + 3 + 5 + 7, 41 = 2 + 3 + 5 + 7 + 11 + 13. Your ta
 
 
 ----tcs codevita questions from previous year
+
+***NB:Please use python code: :-)
