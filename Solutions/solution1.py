@@ -1,3 +1,5 @@
+#Author : Ciril
+
 
 n = int(input("Enter the range of elements "))
 a=[]
