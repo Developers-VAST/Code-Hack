@@ -1,3 +1,4 @@
+# Author: jijinkh
 st = input()
 no = int(input())
 z = [n for n in st]
