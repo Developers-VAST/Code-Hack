@@ -1,6 +1,6 @@
 ***Question 6:***
 
-<h1>Find largest word in dictionary</h1>
+<h2>Find largest word in dictionary which can be made from given string </h2>
 
 Giving a dictionary and a string ‘str’, your task is to find the longest string in dictionary of size x which can be formed by deleting some characters of the given ‘str’.
 
