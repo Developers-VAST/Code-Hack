@@ -16,7 +16,14 @@ Input :
     
 Output :
     52
-    
+```
+Explanation: 
+    Mr x played 3 times.
+    In his first turn he managed to pass level 1. So he scored 25 points.
+    In his second turn he managed to pass level 2(which means he passed both levels 1 and 2). He got 25 points for level 2 and 1 point for level 1
+    In his third turn he managed to pass level 1. He got 1 point for that.
+    So in total he got 25 + 26 + 1 = 52 points.
+```
 Input :
     1
     2
