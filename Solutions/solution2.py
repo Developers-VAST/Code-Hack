@@ -1,4 +1,4 @@
-#Author : Jijin
+# Author : jijinkh
 st = input()
 st_set = set(st)
 c = {}
