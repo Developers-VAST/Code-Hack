@@ -1,3 +1,4 @@
+# Author : jijinkh
 p_amnt = int(input())
 tenure = int(input())
 n1 = int(input())
