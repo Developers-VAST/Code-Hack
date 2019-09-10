@@ -2,7 +2,7 @@
 
 ***Formatting numbers***
 
-Given an integer,N , print the following values for each integer i from 1 to N;
+Given an integer,**N** , print the following values for each integer **i** from **1** to **N**;
 
    **1.Decimal**
    
@@ -12,7 +12,7 @@ Given an integer,N , print the following values for each integer i from 1 to N;
    
    **4.Binary**
 
-*The four values must be printed on a single line in the order specified above for each i from 1 to N. Each value should be space-padded to match the width of the binary value of N*.
+*The four values must be printed on a single line in the order specified above for each **i** from **1** to **N**. Each value should be space-padded to match the width of the binary value of **N**.
 
 **Input Format**
 
