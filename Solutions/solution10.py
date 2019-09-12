@@ -1,3 +1,4 @@
+# Author : haridinesh00
 print("Entet a string")
 str=input()
 a=str.split( )
