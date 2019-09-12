@@ -1,3 +1,4 @@
+# Author : jijinkh
 no = int(input())
 lis = [int(n) for n in input().split(' ')][:no]
 pts = 0
