@@ -1,6 +1,4 @@
-#solution for question 8
-#Author Ciril
-
+# Author : cirilplackal
 n=int(input())
 l=input().split()
 l=list(map(int,l))
